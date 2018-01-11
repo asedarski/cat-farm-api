@@ -1,0 +1,12 @@
+{
+    "require": {
+        "slim/slim": "^3.0",
+        "monolog/monolog": "^1.23",
+        "dominionenterprises/filter": "~2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "src/controllers/"
+        }
+    }
+}
